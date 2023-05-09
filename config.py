@@ -23,13 +23,13 @@ class TEXT:
 
 📚 **Library:** [Pyrogram](https://docs.pyrogram.org)
 
-📡 **Hosted On:** [Heroku](https://heroku.com)
+📡 **Hosted On:** [Railway](https://railway.app)
 
-🧑‍💻 **Developer:** [Safone](https://t.me/ImSafone)
+🧑‍💻 **Developer:** [AlonePhilic](https://t.me/alonephilic_real)
 
-👥 **Support Group:** [AsmSupport](https://t.me/AsmSupport)
+👥 **Support Group:** [Support](https://t.me/thealonephilic)
 
-📢 **Updates Channel:** [Ｓ１ ＢＯＴＳ](https://t.me/AsmSafone)
+📢 **Updates Channel:** [AlonePhilic](https://t.me/thealonephilic)
 """
 
   HELP_USER = """
@@ -37,7 +37,7 @@ This is **{bot_name}**
 
 This Bot Can Download Files & Videos From Mega Links & Upload To Telegram. Just Send Any Mega.nz Link & See The Magic. You Can Also Add or Change Caption: Just Select An Uploaded File/ Video or Forward Me Any Telegram File & Then Write The Text You Want To Be Caption On The File As A Reply To That File & The Text You Wrote Will Be Attached As Caption 😁! 
 
-**Made With ❤️ By @AsmSafone! 👑**
+**Made With ❤️ By @alonephilic_real! 👑**
 """
 
   START_TEXT = """
