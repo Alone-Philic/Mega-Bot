@@ -7,9 +7,9 @@
         "telegram",
         "mega.nz bot"
     ],
-    "website": "https://www.safone.tech",
-    "repository": "https://github.com/AsmSafone/MegaDL-Bot",
-    "success_url": "https://t.me/AsmSafone",
+    "website": "https://bit.ly/AkhilMahesh",
+    "repository": "https://github.com/Alone-Philic/MegaDL-Bot",
+    "success_url": "https://t.me/thealonephilic",
     "env": {
         "API_ID": {
             "description": "Your API_ID from my.telegram.org",
