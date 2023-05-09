@@ -29,6 +29,9 @@ A Simple Telegram Bot By @AsmSafone to Download Files From Mega.nz and Upload It
 # Deploy
 Deploy Your Own Bot ♥️ **Star 🌟 Fork 🍴 & Deploy**
 
+### Railway 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/NI_PFX)
+
 ### Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
